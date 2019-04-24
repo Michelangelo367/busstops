@@ -10,3 +10,8 @@ Based on what I learned in the Python for Data Science course at the University 
 In the notebook you will see how to acquire the data from a csv file, the further process to adapt it to the requirements of the project.
 Some optimizations are made to make the response speed more agile, using a dictionary along with a Pandas's DataFrame.
 In the map the markers are shown indicating the corners of each stop of the routes of the different bus lines that are chosen with a dropdown list widget, and with HTML an explanatory legend is added to the map.
+
+[See in binder.org](https://mybinder.org/v2/gh/camoltoni/busstops.git/master?filepath=RosarioBusStops.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/camoltoni/busstops.git/master?filepath=RosarioBusStops.ipynb)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/camoltoni/busstops.git/master?filepath=RosarioBusStops.ipynb
