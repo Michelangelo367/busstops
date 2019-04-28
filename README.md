@@ -12,5 +12,6 @@ Some optimizations are made to make the response speed more agile, using a dicti
 In the map the markers are shown indicating the corners of each stop of the routes of the different bus lines that are chosen with a dropdown list widget, and with HTML an explanatory legend is added to the map.
 
 [See in mybinder.org](https://mybinder.org/v2/gh/camoltoni/busstops.git/master?filepath=RosarioBusStops.ipynb)
+<a href="https://mybinder.org/v2/gh/camoltoni/busstops.git/master?filepath=RosarioBusStops.ipynb" target="_blank">See in mybinder.org</a>
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/camoltoni/busstops.git/master?filepath=RosarioBusStops.ipynb)
